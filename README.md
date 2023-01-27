@@ -11,3 +11,6 @@ Repositorien innehåller just nu endast denna **README**-fil.
 
 #### Vilket kommandå behöver jag använda i terminalen/kommandopromten för att klona ditt repository till min dator?
 * För att klona ditt repositorie använder du **git clone** i terminalen/kommandopromten. 
+* För detta repository skulle kommandot se ut på följande vis:
+
+  > git clone <https://github.com/Akwingardh/github.git>
